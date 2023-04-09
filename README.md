@@ -1,4 +1,3 @@
-#InstaCart_Recommendation_System
 
 A recommendation system using orders and customer data from InstaCart created using Apriori and clustering Algorithm in Python
 
