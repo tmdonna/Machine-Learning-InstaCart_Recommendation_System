@@ -1,4 +1,5 @@
-#Machine Learning: InstaCart_Recommendation_System
+#InstaCart_Recommendation_System
+
 A recommendation system using orders and customer data from InstaCart created using Apriori and clustering Algorithm in Python
 
 The most important factor in developing a marketing strategy for E-commerce is the capability to
